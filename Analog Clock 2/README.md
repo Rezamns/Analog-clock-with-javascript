@@ -1,2 +1,2 @@
 # Calculator with javascript
-![Screenshot](https://github.com/Rezamns/Calculator-with-javascript/assets/57560653/337ade8c-a31d-43cb-b283-62d89e65cffa)
+![2](https://github.com/Rezamns/Analog-clock-with-javascript/assets/57560653/c9ca3cb3-8f93-4498-821c-b1bd20a777bf)
